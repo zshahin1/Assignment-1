@@ -1,0 +1,51 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    background-color: #F0FFF0;;
+}
+.logo{
+    width:auto;
+    height: 59px;
+}
+button{
+    color: white;
+    background-color: #21B573;
+    font-family: 'Roboto', sans-serif;
+    border: none;
+    border-radius: 33px;
+    padding: 12px 28px;
+}
+.nav-item{
+    margin-right: 20px;
+}
+.ready{
+    color: #FD511A;
+}
+.banner{
+    margin-top: 50px;
+    padding: 50px;
+}
+.banner h1{
+    font-weight: 700;
+}
+.schedule{
+    color:#21B573 ;
+}
+.banner img{
+    width: 100%;
+    
+}
+.topic{
+    width: 270px;
+    height: 270px;
+    background: #F8FFFB;
+    border-radius: 10px;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1)
+}
+.container{
+    margin-bottom: 50px;
+}
+.topic img{
+    width: 100%;
+}
