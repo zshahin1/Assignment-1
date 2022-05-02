@@ -39,9 +39,11 @@ button{
     
 }
 .topic{
-    margin-left: 15px;
-    width: 270px;
-    height: 270px;
+    
+    margin-bottom: 20px;
+    margin-left: 20px;
+    width: 265px;
+    height: 265px;
     background: #F8FFFB;
     border-radius: 10px;
     box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1)
@@ -139,4 +141,10 @@ footer{
     font-size: 16px;
     line-height: 30px;
     color: #CDCDCD;
+}
+.get-started{
+    margin-bottom: 20px;
+}
+.fc{
+    margin-bottom: 30px;
 }
