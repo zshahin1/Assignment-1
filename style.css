@@ -16,12 +16,13 @@ button{
     border-radius: 33px;
     padding: 12px 28px;
 }
-.nav-item{
+.nav-link{
     margin-right: 20px;
 }
 .ready{
     color: #FD511A;
 }
+
 .banner{
     margin-top: 50px;
     padding: 50px;
@@ -33,10 +34,12 @@ button{
     color:#21B573 ;
 }
 .banner img{
+    
     width: 100%;
     
 }
 .topic{
+    margin-left: 15px;
     width: 270px;
     height: 270px;
     background: #F8FFFB;
@@ -44,8 +47,96 @@ button{
     box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1)
 }
 .container{
+    margin-bottom: 80px;
+}
+.img1{
+    margin-left: 40px;
+    width: 66px;
+    height: 85px;
+    margin-bottom: 30px;
+}
+.img2{
+    margin-left: 50px;
+    width: 80px;
+    height: 83px;
+    margin-bottom: 30px;
+}
+.img3{
+    margin-left: 50px;
+    width: 75px;
+    height: 80px;
+    margin-bottom: 30px;
+}
+.img4{
+    margin-left: 50px;
+    width: 68px;
+    height: 76px;
+    margin-bottom: 30px;
+}
+.topic h3{
+    color:  #413960;
+    font-weight: 500;
+    font-size: 24px;
+}
+.online-courses{
+    color:  #413960;
+    font-weight: 700;
+    font-size: 36px;
+    margin-bottom: 50px;
+  
+}
+.card h5{ 
+    color: #413960;
+}
+.card{
+    border: none;
+    padding: 20px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.testimonial h2{
+    font-weight: 700;
     margin-bottom: 50px;
 }
-.topic img{
-    width: 100%;
+.man{
+    width: 120px;
+    height: 120px;
+    margin-right: 60px;
+}
+.testimonial p{
+    font-weight: 400;
+    line-height: 40px;
+    font-size: 16px;
+}
+footer{
+    background-color:  #282531;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.note{
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.course, .term, .link{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 30px;
+}
+.courses, .terms, .links{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+}
+.copyright{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #CDCDCD;
 }
